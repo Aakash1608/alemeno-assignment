@@ -1,0 +1,5 @@
+db.sqlite3
+/frontend/node_modules
+/strip_detection/__pycache__
+/strip_detection/migrations
+/alemeno_assignment/__pycache__
